@@ -1,6 +1,8 @@
 <div align="center">
 
-<!-- 贪吃蛇贡献图 - 最顶部，紧接原生贡献图 -->
+<!-- 赛博风格标题背景 -->
+# ⚡ XIAOSI_IS_FIGHTING! ⚡
+
 ### 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/github-contribution-grid-snake.svg)
