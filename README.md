@@ -1,10 +1,7 @@
-# 嘿，我是 XiaoSi 👋
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=40&fontColor=ffffff" alt="header" />
-
-# 🌌 XiaoSi_is_Fighting!
+<!-- 赛博朋克艺术字标题 -->
+<img src="assets/cyber-title.png" alt="XiaoSi_is_Fighting!" width="80%" />
 
 ### 🛰️ 空间大气物理研究者 | TIMED/SABER 卫星数据
 
