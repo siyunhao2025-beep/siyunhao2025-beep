@@ -27,11 +27,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=siyunhao2025-beep.siyunhao2025-beep&style=for-the-badge" alt="visitors" />
 </p>
 
-<!-- 赛博朋克横版 banner -->
-<p align="center">
-    <img src="assets/cyber-title-banner.png" alt="XiaoSi_is_Fighting!" width="100%" />
-</p>
-
 ---
 
 <!-- 研究世界海报 -->
