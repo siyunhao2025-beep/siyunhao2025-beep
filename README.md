@@ -1,5 +1,15 @@
 <div align="center">
 
+<!-- 贪吃蛇贡献图 - 最顶部，紧接原生贡献图下方 -->
+  <h3>🐍 Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/dist/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/dist/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/dist/snake.svg" />
+  </picture>
+
+---
+
 <!-- 史诗叙事海报 - 主视觉 -->
 <img src="https://aka.doubaocdn.com/s/iIyrtsXU3b" alt="Epic Narrative Poster" width="85%" />
 
@@ -44,18 +54,6 @@ mindmap
 
 ---
 
-<!-- 贪吃蛇贡献图 - 暗黑/明亮模式自适应 -->
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/dist/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/dist/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/dist/snake.svg" />
-  </picture>
-</div>
-
----
-
 <!-- GitHub 统计卡片 -->
 <div align="center">
 
@@ -64,10 +62,6 @@ mindmap
 <a href="https://github.com/siyunhao2025-beep">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siyunhao2025-beep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyunhao2025-beep&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/siyunhao2025-beep">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siyunhao2025-beep&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
