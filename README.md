@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 史诗叙事海报 - 主视觉（动态版） -->
-<img src="https://aka.doubaocdn.com/s/k428FL0qMW" alt="Epic Narrative Poster" width="85%" />
+<!-- 史诗叙事海报 - 主视觉 -->
+<img src="https://aka.doubaocdn.com/s/iIyrtsXU3b" alt="Epic Narrative Poster" width="85%" />
 
 # 🌌 XiaoSi | Space Atmosphere Researcher
 
