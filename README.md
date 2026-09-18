@@ -1,5 +1,16 @@
 <div align="center">
 
+<!-- 贪吃蛇贡献图 - 最顶部，紧接原生贡献图 -->
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
 <!-- 史诗叙事海报 - 主视觉 -->
 <img src="https://aka.doubaocdn.com/s/iIyrtsXU3b" alt="Epic Narrative Poster" width="85%" />
 
@@ -82,17 +93,6 @@ mindmap
 ![Thermosphere](https://img.shields.io/badge/🌍_Thermosphere-2E86AB?style=for-the-badge)
 ![Space Weather](https://img.shields.io/badge/🌩️_Space_Weather-A23B72?style=for-the-badge)
 ![Satellite Data](https://img.shields.io/badge/🛰️_Remote_Sensing-F18F01?style=for-the-badge)
-
-</div>
-
----
-
-<!-- 贪吃蛇贡献图 -->
-<div align="center">
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/github-contribution-grid-snake.svg)
 
 </div>
 
