@@ -1,7 +1,16 @@
 <div align="center">
 
-<!-- 赛博风格标题背景 -->
-# ⚡ XIAOSI_IS_FIGHTING! ⚡
+<!-- 顶部波浪装饰 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=XIAOSI_IS_FIGHTING!&fontSize=40&fontColor=ffffff" alt="header" />
+
+<!-- 打字机效果 -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&width=600&lines=Exploring+the+Thermosphere;Decoding+Geomagnetic+Storms;Processing+NC+Data+with+MATLAB;One+commit+at+a+time...)
+
+<!-- 访客计数器 + 连续打卡 -->
+<div>
+  <img src="https://komarev.com/ghpvc/?username=siyunhao2025-beep&color=2E86AB&style=flat-square" alt="Profile views" />
+  <img src="https://streak-stats.demolab.com?user=siyunhao2025-beep&theme=blue-green&hide_border=true&short_numbers=true" alt="GitHub streak" />
+</div>
 
 ### 🐍 Contribution Snake
 
@@ -22,11 +31,14 @@
 
 ---
 
-<!-- 社交链接与徽章 -->
+<!-- 社交链接与科研徽章 -->
 [![GitHub followers](https://img.shields.io/github/followers/siyunhao2025-beep?style=social)](https://github.com/siyunhao2025-beep)
 ![Research](https://img.shields.io/badge/🔬_TIMED/SABER-Atmospheric_Physics-2E86AB?style=flat-square)
 ![Space Weather](https://img.shields.io/badge/🌩️_Space_Weather-Geomagnetic_Storms-A23B72?style=flat-square)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Thermosphere](https://img.shields.io/badge/🌍_Thermosphere-Research-F18F01?style=flat-square)
+![Remote Sensing](https://img.shields.io/badge/🛰️_Remote_Sensing-NC_Data-7B68EE?style=flat-square)
+![Geomagnetic Storm](https://img.shields.io/badge/⚡_Geomagnetic_Storm-Response-FF6B6B?style=flat-square)
 
 ---
 
@@ -100,7 +112,21 @@ mindmap
 
 ---
 
+<!-- 科研笑话 -->
 <div align="center">
+
+### 😄 Research Humor
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=blue-green)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- 底部波浪装饰 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer" />
 
 ### ✨ "The cosmos is within us. We are made of star-stuff."
 
