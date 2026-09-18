@@ -1,3 +1,14 @@
+<!-- 多语言名言 - 第一眼中文 -->
+<p align="center">
+    <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=26&pause=2500&color=9b59b6&center=true&vCenter=true&width=700&height=80&lines=%E6%9C%89%E5%B9%B8%E8%A2%AB%E7%85%A7%E4%BA%AE%EF%BC%8C%E4%B9%9F%E6%83%B3%E6%88%90%E4%B8%BA%E5%85%89;Fortunate+to+be+illuminated%2C+I+also+wish+to+become+light;%E7%85%A7%E3%82%89%E3%81%95%E3%82%8C%E3%81%9F%E5%B9%B8%E3%81%9B%E3%80%81%E5%85%89%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84;%EB%B9%9B%EC%9D%84+%EB%B0%9B%EC%9D%80+%ED%96%89%EC%9A%B4%2C+%EB%82%98%EB%8F%84+%EB%B9%9B%EC%9D%B4+%EB%90%98%EA%B3%A0+%EC%8B%B6%EB%8B%A4;Chanceux+d'%C3%AAtre+illumin%C3%A9%2C+je+veux+aussi+devenir+lumi%C3%A8re;Afortunado+de+ser+iluminado%2C+tambi%C3%A9n+quiero+ser+luz" alt="quote" />
+    <br>
+    <b><i>—— Si</i></b>
+    <br><br>
+</p>
+
+---
+
 <!-- 顶部状态徽章 -->
 <p align="center">
     <a href="https://github.com/siyunhao2025-beep/siyunhao2025-beep"><img src="https://img.shields.io/badge/status-processing-9b59b6.svg"></a>
@@ -12,9 +23,9 @@
     <img src="assets/cyber-title-banner.png" alt="XiaoSi_is_Fighting!" width="100%" />
 </p>
 
-<!-- 打字机效果 -->
+<!-- 打字机效果 - 个人介绍 -->
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%239b59b6&center=true&vCenter=true&width=700&lines=Hi+there+I+am+XiaoSi;Space+Atmosphere+Researcher;Studying+TIMED/SABER+satellite+data;Thermosphere+Dynamics+and+Geomagnetic+Storms;One+commit+at+a+time" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2E86AB&center=true&vCenter=true&width=700&lines=Space+Atmosphere+Researcher;TIMED/SABER+satellite+data;Thermosphere+%26+Geomagnetic+Storms;MATLAB+%2B+Python+%2B+Coffee;One+commit+at+a+time" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -46,22 +57,12 @@
 
 ---
 
-<!-- GitHub 活动折线图 -->
-### 📈 GitHub Activity Graph
+<!-- 连续打卡 -->
+### 🔥 GitHub Streak
 
 <p align="center">
-    <a href="https://github.com/siyunhao2025-beep/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=siyunhao2025-beep&theme=react-dark" alt="XiaoSi's github activity graph" /></a>
+    <img src="https://streak-stats.demolab.com?user=siyunhao2025-beep&theme=blue-green&hide_border=true" alt="GitHub streak" />
 </p>
-
----
-
-<!-- 统计 + 连续打卡 -->
-<table>
-  <tr>
-    <td><img src="https://streak-stats.demolab.com?user=siyunhao2025-beep&theme=blue-green&hide_border=true" alt="GitHub streak" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=siyunhao2025-beep&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" /></td>
-  </tr>
-</table>
 
 ---
 
@@ -83,30 +84,7 @@
 
 ---
 
-<!-- 奖杯 -->
-### 🏆 Trophies
-
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siyunhao2025-beep&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies" /></a>
-</p>
-
----
-
-<!-- 科研人日常笑话 -->
-### 😄 Research Humor
-
-<p align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</p>
-
----
-
 <!-- 底部波浪 -->
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
-</p>
-
-<p align="center">
-    <b>✨ "We are made of star-stuff."</b><br>
-    <i>— Carl Sagan</i>
 </p>
