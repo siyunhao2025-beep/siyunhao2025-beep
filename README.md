@@ -92,7 +92,7 @@ mindmap
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/dist/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/github-contribution-grid-snake.svg)
 
 </div>
 
