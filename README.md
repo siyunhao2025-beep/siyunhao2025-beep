@@ -4,7 +4,7 @@
     <a href="https://github.com/siyunhao2025-beep/siyunhao2025-beep"><img src="https://img.shields.io/badge/MATLAB-2024b-0076A8.svg?style=flat&logo=mathworks&logoColor=white"></a>
     <a href="https://github.com/siyunhao2025-beep/siyunhao2025-beep/graphs/contributors"><img src="https://img.shields.io/github/contributors/siyunhao2025-beep/siyunhao2025-beep?color=9b59b6"></a>
     <a href="https://github.com/siyunhao2025-beep/siyunhao2025-beep/stargazers"><img src="https://img.shields.io/github/stars/siyunhao2025-beep/siyunhao2025-beep.svg?logo=github&color=9b59b6"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=siyunhao2025-beep.siyunhao2025-beep" alt="visitors" />   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=siyunhao2025-beep.siyunhao2025-beep" alt="visitors" />
 </p>
 
 <!-- 赛博朋克横版 banner -->
@@ -14,21 +14,21 @@
 
 <!-- 打字机效果 -->
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239b59b6&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+XiaoSi;Space+Atmosphere+Researcher;Studying+TIMED/SABER+satellite+data;Thermosphere+Dynamics+&+Geomagnetic+Storms;One+commit+at+a+time... )](https://git.io/typing-svg)
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%239b59b6&center=true&vCenter=true&width=700&lines=Hi+there+I+am+XiaoSi;Space+Atmosphere+Researcher;Studying+TIMED/SABER+satellite+data;Thermosphere+Dynamics+and+Geomagnetic+Storms;One+commit+at+a+time" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-<!-- 技能表格（参考BEPb风格） -->
+<!-- 技能表格 -->
 ### 🛠️ My Research Toolkit
 
 | Category | Tools |
 |----------|-------|
-| **Languages** | ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat&logo=fortran&logoColor=white) |
-| **Data Processing** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NetCDF](https://img.shields.io/badge/-NetCDF-9b59b6?style=flat) |
-| **Visualization** | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) |
-| **Research Domain** | ![Thermosphere](https://img.shields.io/badge/-Thermosphere-2E86AB?style=flat) ![Space+Weather](https://img.shields.io/badge/-Space_Weather-A23B72?style=flat) ![Remote+Sensing](https://img.shields.io/badge/-Remote_Sensing-F18F01?style=flat) |
-| **Essential** | ![Coffee](https://img.shields.io/badge/-☕_Coffee-essential-6F4E37?style=flat) |
+| **Languages** | <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-Fortran-734F96?style=flat&logo=fortran&logoColor=white" /> |
+| **Data Processing** | <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/-NetCDF-9b59b6?style=flat" /> |
+| **Visualization** | <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" /> |
+| **Research Domain** | <img src="https://img.shields.io/badge/-Thermosphere-2E86AB?style=flat" /> <img src="https://img.shields.io/badge/-Space_Weather-A23B72?style=flat" /> <img src="https://img.shields.io/badge/-Remote_Sensing-F18F01?style=flat" /> |
+| **Essential** | <img src="https://img.shields.io/badge/-Coffee-essential-6F4E37?style=flat" /> |
 
 ---
 
@@ -47,18 +47,21 @@
 ---
 
 <!-- GitHub 活动折线图 -->
-### 📈 GitHub Activity Graph:
+### 📈 GitHub Activity Graph
 
 <p align="center">
-[![XiaoSi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=siyunhao2025-beep&theme=react-dark)](https://github.com/siyunhao2025-beep/github-readme-activity-graph)
+    <a href="https://github.com/siyunhao2025-beep/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=siyunhao2025-beep&theme=react-dark" alt="XiaoSi's github activity graph" /></a>
 </p>
 
 ---
 
 <!-- 统计 + 连续打卡 -->
-| . | . |
-|---|---|
-| ![GitHub streak](https://streak-stats.demolab.com?user=siyunhao2025-beep&theme=blue-green&hide_border=true) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siyunhao2025-beep&show_icons=true&theme=tokyonight&include_all_commits=true) |
+<table>
+  <tr>
+    <td><img src="https://streak-stats.demolab.com?user=siyunhao2025-beep&theme=blue-green&hide_border=true" alt="GitHub streak" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=siyunhao2025-beep&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -66,7 +69,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-![Snake animation](https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/github-contribution-grid-snake.svg)
+    <img src="https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -75,7 +78,7 @@
 ### 🖼️ My Research World
 
 <p align="center">
-<img src="https://aka.doubaocdn.com/s/iIyrtsXU3b" alt="Epic Poster" width="90%" />
+    <img src="https://aka.doubaocdn.com/s/iIyrtsXU3b" alt="Epic Poster" width="90%" />
 </p>
 
 ---
@@ -83,8 +86,8 @@
 <!-- 奖杯 -->
 ### 🏆 Trophies
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siyunhao2025-beep&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies" /></a>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siyunhao2025-beep&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies" /></a>
 </p>
 
 ---
@@ -93,16 +96,17 @@
 ### 😄 Research Humor
 
 <p align="center">
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
 ---
 
 <!-- 底部波浪 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+</p>
 
-### ✨ "We are made of star-stuff."
-
-*— Carl Sagan*
+<p align="center">
+    <b>✨ "We are made of star-stuff."</b><br>
+    <i>— Carl Sagan</i>
 </p>
