@@ -24,8 +24,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=E91E63&color_snake_dots=9C27B0
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push snake to branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
