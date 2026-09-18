@@ -21,10 +21,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate snake SVGs
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=E91E63&color_snake_dots=9C27B0
 
       - name: Push snake to branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
