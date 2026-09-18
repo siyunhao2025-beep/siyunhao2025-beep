@@ -1,15 +1,5 @@
 <div align="center">
 
-<!-- 贪吃蛇贡献图 - 最顶部，紧接原生贡献图下方 -->
-  <h3>🐍 Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/dist/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/dist/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/dist/snake.svg" />
-  </picture>
-
----
-
 <!-- 史诗叙事海报 - 主视觉 -->
 <img src="https://aka.doubaocdn.com/s/iIyrtsXU3b" alt="Epic Narrative Poster" width="85%" />
 
@@ -54,15 +44,15 @@ mindmap
 
 ---
 
-<!-- GitHub 统计卡片 -->
+<!-- GitHub 统计 -->
 <div align="center">
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
-<a href="https://github.com/siyunhao2025-beep">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siyunhao2025-beep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyunhao2025-beep&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</a>
+![GitHub commits](https://img.shields.io/github/commit-activity/m/siyunhao2025-beep/siyunhao2025-beep?style=flat-square&color=2E86AB)
+![GitHub repo size](https://img.shields.io/github/repo-size/siyunhao2025-beep/siyunhao2025-beep?style=flat-square&color=A23B72)
+![GitHub language count](https://img.shields.io/github/languages/count/siyunhao2025-beep/siyunhao2025-beep?style=flat-square&color=F18F01)
+![GitHub top language](https://img.shields.io/github/languages/top/siyunhao2025-beep/siyunhao2025-beep?style=flat-square&color=0076A8)
 
 </div>
 
@@ -97,14 +87,12 @@ mindmap
 
 ---
 
-<!-- 成就奖杯 -->
+<!-- 贪吃蛇贡献图 -->
 <div align="center">
 
-### 🏆 Achievements
+### 🐍 Contribution Snake
 
-<a href="https://github.com/siyunhao2025-beep">
-  <img src="https://github-profile-trophy.vercel.app/?username=siyunhao2025-beep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</a>
+![Snake animation](https://raw.githubusercontent.com/siyunhao2025-beep/siyunhao2025-beep/snake/dist/snake.svg)
 
 </div>
 
